@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tivenfig.github.io/sitemap.html.gz
+Sitemap: https://tivenfig.github.io/app/sitemap.html.gz
+Sitemap: https://tivenfig.github.io/assets/sitemap.html.gz
+Sitemap: https://tivenfig.github.io/css/sitemap.html.gz
+Sitemap: https://tivenfig.github.io/includes/sitemap.html.gz
+Sitemap: https://tivenfig.github.io/item/sitemap.html.gz
+Sitemap: https://tivenfig.github.io/src/sitemap.html.gz
